@@ -1,0 +1,77 @@
+#greycol {
+    color: gray;
+}
+
+.yellow {
+    color: yellow;
+}
+
+div div p {
+    color: red;
+}
+
+.text-box h3:first-child {
+    color: pink;
+}
+
+p:nth-last-child(2) {
+    color: green;
+}
+
+.container h3 {
+    color: red;
+}
+
+.container h4 {
+    color: green;
+}
+
+#monday {
+    color: red;
+}
+
+#monday li:last-child:hover {
+    color: gold;
+}
+
+#tuesday {
+    color: orange;
+}
+
+#tuesday li:nth-child(odd) {
+    color: blue;
+}
+
+#wednesday {
+    color: aqua;
+}
+
+#wednesday a {
+    color: hotpink;
+}
+
+#wednesday a:hover {
+    color: yellowgreen;
+}
+
+#thursday {
+    color: darkviolet;
+}
+
+#thursday li:first-child:hover {
+    font-size: 50px;color: cornflowerblue;
+}
+
+#friday {
+    color: olivedrab;
+}
+
+#friday li:first-child {
+    color: maroon;
+}
+
+#friday li:last-child {
+    color: deepskyblue;
+}
+
+#friday li:last-child:hover {color: darkmagenta;font-size: 50px;}
